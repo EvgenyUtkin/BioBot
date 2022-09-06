@@ -1,0 +1,1 @@
+main_token = 'vk1.a.07fpn90DX1HWhGeMbXBe5QCUiqLgyC-svv2yr3dyjMKYwyLEY5WJJG7jYpbQhuHOA3uu5zAaZOB7eP72xmrt52HSlfy2rdqLZbMZ61EUJ97ZcQhO4ujMYnOhHoSOlGrqxT_m-DLwibVdx9lA-eDNIUutybOe8NGpK1aKrGt8bEL_aM2fvEXyLsM9zMUFoPtD'
